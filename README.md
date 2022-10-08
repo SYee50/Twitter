@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/SYee50/Twitter/blob/main/Simulator%20Screen%20Recording%20-%20iPhone%2011%20-%202022-10-08%20at%2001.49.24.gif' />
 
 
 
